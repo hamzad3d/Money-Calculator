@@ -1,10 +1,3 @@
-I understand your concern! Let me provide you with a **clean and properly formatted `README.md`** file that will render correctly on GitHub. I'll ensure that all sections are properly formatted in Markdown and that the code blocks, lists, and headers display as expected.
-
-Here’s the final version:
-
----
-
-```markdown
 # MoneyCalculator Trait
 
 The `MoneyCalculator` trait provides a set of utility functions for performing precise arithmetic operations on monetary values. It leverages PHP's **BCMath** library to ensure high precision in calculations, which is crucial for financial operations.

@@ -146,14 +146,3 @@ This trait is open-source and available under the MIT License.
 ### كيفية الاستخدام:
 1. قم بتضمين الـ trait في الفئة الخاصة بك.
 2. استخدم الدوال المتاحة لإجراء العمليات الحسابية المالية.
-```
-
----
-
-### How to Use This File
-
-1. Create a new file in your project directory and name it `README.md`.
-2. Copy the entire content above and paste it into the `README.md` file.
-3. Save the file.
-
-This version is **fully compatible with GitHub's Markdown rendering** and will display correctly. Let me know if you need further adjustments! 😊
